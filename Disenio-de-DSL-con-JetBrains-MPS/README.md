@@ -6,6 +6,12 @@ Este proyecto implementa un editor y generador de formas geométricas básicas u
 
 El objetivo de este laboratorio es desarrollar un editor de dominio específico (DSL) que permita a los usuarios definir formas geométricas básicas y generar código Java para dibujar dichas formas en una interfaz gráfica (Swing).
 
+## Video de Demostración
+
+Puedes ver un video del funcionamiento en el siguiente enlace: [Video de Ejecución](https://youtu.be/41OpPjSlHpQ)
+
+---
+
 ## Instrucciones de Ejecución
 
 1. **Requisitos previos**:
@@ -14,8 +20,7 @@ El objetivo de este laboratorio es desarrollar un editor de dominio específico 
 
 2. **Clona este repositorio**:
    ```bash
-   git clone <https://github.com/vgcarlol/Disenio-de-DSL-con-JetBrains-MPS>
-   cd <editor-de-formas>
+   git clone https://github.com/vgcarlol/Disenio-de-DSL-con-JetBrains-MPS
    ```
 
 3. **Carga el proyecto en MPS**:
@@ -93,11 +98,6 @@ Asegúrate de que las coordenadas y dimensiones estén dentro de los límites vi
 
 ---
 
-## Video de Demostración
-
-Puedes ver un video del funcionamiento en el siguiente enlace: [Video de Ejecución](https://youtube.com/tu_video_no_listado)
-
----
 
 ## Autores
 
