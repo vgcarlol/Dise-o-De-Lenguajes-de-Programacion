@@ -5,12 +5,17 @@ Este proyecto implementa un simulador de un búfer de entrada en Python, utiliza
 ## Objetivo
 El objetivo principal es experimentar con la lógica de manejo de búferes para procesar datos de manera eficiente, optimizando el uso de memoria y evitando operaciones innecesarias.
 
+
+## Video de Demostración
+Puedes ver el video de demostración en el siguiente enlace: [Video de Ejecución](https://youtu.be/J-wMBQzKvfo)
+
+
 ## Instrucciones de Ejecución
 1. **Requisitos previos**: Asegúrate de tener Python instalado (versión 3.6 o superior).
 2. **Clona este repositorio**:
    ```bash
-   git clone <https://github.com/vgcarlol/Dise-o-De-Lenguajes-de-Programacion>
-   cd <implementacion-de-un-bufer-de-entrada>
+   git clone https://github.com/vgcarlol/Dise-o-De-Lenguajes-de-Programacion
+   cd implementacion-de-un-bufer-de-entrada
    ```
 3. **Ejecuta el programa**:
    ```bash
@@ -50,9 +55,6 @@ Lexema procesado: eof
 - **archivo.py**: Contiene la implementación del simulador de búfer.
 - **README.md**: Documento con información del proyecto, instrucciones y ejemplos.
 
-## Video de Demostración
-Puedes ver el video de demostración en el siguiente enlace: [Video de Ejecución](https://youtube.com/tu_video_no_listado)
-
 ## Preguntas Frecuentes (FAQ)
 ### ¿Por qué usar un búfer con centinelas?
 El uso de búferes permite procesar grandes volúmenes de datos de forma eficiente, evitando operaciones costosas como acceder a disco o memoria externa con frecuencia.
@@ -62,7 +64,7 @@ El carácter `eof` actúa como un centinela para indicar el final de los datos e
 
 ## Enlaces Relacionados
 - **Repositorio de GitHub**: [Enlace al repositorio](https://github.com/vgcarlol/dise-o-de-lenguajes-de-programacion)
-- **Video de Demostración**: [Video de Ejecución](https://youtube.com/tu_video_no_listado)
+- **Video de Demostración**: [Video de Ejecución](https://youtu.be/J-wMBQzKvfo)
 
 ## Autores
 Este proyecto fue desarrollado por:
