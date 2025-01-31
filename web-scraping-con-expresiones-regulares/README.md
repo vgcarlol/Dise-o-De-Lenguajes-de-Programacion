@@ -6,7 +6,7 @@ Este proyecto implementa un simulador de web scraping en Python, utilizando un b
 El objetivo principal es aprender cómo procesar archivos HTML utilizando un búfer para garantizar un manejo secuencial de datos, identificando patrones con expresiones regulares y exportando resultados estructurados.
 
 ## Video de Demostración
-Puedes ver el video de demostración en el siguiente enlace: [Video de Ejecución](https://youtu.be/)
+Puedes ver el video de demostración en el siguiente enlace: [Video de Ejecución](https://youtu.be/Nfnv587GN-Y)
 
 ## Instrucciones de Ejecución
 1. **Requisitos previos**:
@@ -71,7 +71,7 @@ El programa simplemente omitirá las entradas que no coincidan con las expresion
 
 ## Enlaces Relacionados
 - **Repositorio de GitHub**: [Enlace al repositorio](https://github.com/vgcarlol/Dise-o-De-Lenguajes-de-Programacion/tree/main/web-scraping-con-expresiones-regulares)
-- **Video de Demostración**: [Video de Ejecución](https://youtu.be/)
+- **Video de Demostración**: [Video de Ejecución](https://youtu.be/Nfnv587GN-Y)
 
 ## Autores
 Este proyecto fue desarrollado por:
